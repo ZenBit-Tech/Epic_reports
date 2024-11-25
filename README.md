@@ -28,3 +28,6 @@ Sign up or login at https://fhir.epic.com (epic on fhir)
 
 # Test Patients info
 - [Test Patients](https://fhir.epic.com/Documentation?docId=testpatients)
+
+# Video Demo
+- https://www.loom.com/share/f9cc486dc9f64fbdac0d7e8a04c1193d
